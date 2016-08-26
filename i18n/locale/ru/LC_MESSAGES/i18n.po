@@ -21,6 +21,9 @@ msgstr "агрегат"
 msgid "allocate IP"
 msgstr "выделить IP"
 
+msgid "API endpoint"
+msgstr "конечная точка API"
+
 msgid "architecture"
 msgstr "архитектура"
 
@@ -123,6 +126,9 @@ msgstr "формат диска"
 
 msgid "disk GB hours"
 msgstr "ГБ-часы диска"
+
+msgid "distribution"
+msgstr "дистрибуция"
 
 msgid "domain"
 msgstr "домен"
@@ -336,6 +342,9 @@ msgstr "роль"
 
 msgid "router"
 msgstr "маршрутизатор"
+
+msgid "section"
+msgstr "раздел"
 
 msgid "security group"
 msgstr "группа безопасности"
